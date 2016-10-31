@@ -1,0 +1,13 @@
+{
+  "generators": {
+    "modules": {}
+  },
+  "hooks": {
+  	"autoreload-extend": true,
+    "sequelize": true,
+    "orm": false,
+    "pubsub": false,
+    "grunt": false,
+    "sockets": false
+  }
+}
