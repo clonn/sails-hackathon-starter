@@ -56,6 +56,13 @@ config/env/development.js
  * support `await` and `asnyc`
  * babel include
 
+## changelog
+
+ * 2016/11/14
+   * add [mochawesome](https://github.com/adamgruber/mochawesome) to report system
+   * add `npm run test:report` to export report for users.
+   * fixed bug and test running issue.
+
 
 License
 -------
