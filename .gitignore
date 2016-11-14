@@ -128,3 +128,4 @@ assets/bower/
 errorShots/
 /coverage
 yarn.lock
+mochawesome-reports/
