@@ -9,5 +9,4 @@ describe('IndexController', () => {
         done(err);
       });
   })
-
 });
