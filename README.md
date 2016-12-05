@@ -56,6 +56,11 @@ config/env/development.js
  * support `await` and `asnyc`
  * babel include
 
+## Node version
+
+
+[sailsjs-hackathon-starter](https://github.com/clonn/sails-hackathon-starter) is captiable to [Node v4](https://nodejs.org/dist/v4.6.2/) and [Node v6.x.x](https://nodejs.org/dist/v6.9.1/). (After you change new version of Node.js, please run again `npm install`, make sure all modules already installed and compiled).
+
 ## changelog
 
  * 2016/11/14
