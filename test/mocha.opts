@@ -1,6 +1,5 @@
 -t 50000
 --compilers js:babel-core/register
 --require chai
---require babel-polyfill
 --recursive test/bootstrap.test.js
 --reporter spec
